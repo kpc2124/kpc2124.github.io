@@ -9,13 +9,17 @@ output:
 
 # This is Jeff's awesome website
 
+You can learn about me [here](about.html).
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 ## adding links
 
-I often use [google](google.com) to do data science.
+I often use [google](https://www.google.com) to do **data science**.
 
 ## adding an image
 
-!{}(./images/image.jpg) - making an images folder and load images from the folder
+![] (./images/image.jpg) - making an images folder and load images from the folder
+
+## about me
 
