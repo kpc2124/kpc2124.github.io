@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## adding links
+
+I often use [google](google.com) to do data science.
+
+## adding an image
+
+!{}(./images/image.jpg) - making an images folder and load images from the folder
+
